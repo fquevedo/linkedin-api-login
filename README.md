@@ -1,2 +1,2 @@
-# linkedin-api-login
+# linkedin-api-login using passport
 Auth Linkedin Api
